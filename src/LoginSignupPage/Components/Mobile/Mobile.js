@@ -18,13 +18,16 @@ const Mobile = ({ validate, toggleAuthType, x }) => {
       {x === 0 ? (
         <button
           id="use-email"
+
           onClick={() => {
             toggleAuthType("email");
           }}
         >
           Use Email Address
+
         </button>
       ) : (
+
         <></>
       )}
       <br />
