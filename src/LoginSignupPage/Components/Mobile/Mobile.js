@@ -5,8 +5,10 @@ const Mobile = ({ validate, toggleAuthType, x }) => {
   return (
     <div id="Mobile">
       <p id="EnterMobile">Please enter your mobile number</p>
+
       <br />
       {/* <p>+91</p> */}
+
       <div className="form">
         <input type="text" className="mobile" required onChange={validate} />
         <label htmlFor="name" className="label-name">
