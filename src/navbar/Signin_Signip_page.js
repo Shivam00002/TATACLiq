@@ -24,10 +24,12 @@ function SigninSignup() {
     return (
       <>
         {" "}
+
         <Popover>
           <PopoverTrigger>
             <Box display="flex">
               <Box>
+
                 <Button
                   size="sm"
                   _hover={{ bg: "black" }}
