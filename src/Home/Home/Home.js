@@ -31,7 +31,7 @@ function Home(props) {
       })
     }
     
-  
+ 
     return (
         <div style={{backgroundColor:"hsl(0,0%,93%)"}}>
       
