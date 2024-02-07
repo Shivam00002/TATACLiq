@@ -6,6 +6,7 @@ const Email = ({ validate, toggleAuthType }) => {
     <div id="Email">
       <p id="EnterEmail">Please enter your email address</p>
 
+
       <br />
       <div className="form">
         <input
