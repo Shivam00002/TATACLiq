@@ -22,6 +22,7 @@ const Carousela = (props) => {
         }
     }
 
+
     const prev = () => {
         if (currentIndex > 0) {
             setCurrentIndex(prevState => prevState - 1)
