@@ -24,6 +24,7 @@ const ProductCard = ({ data }) => {
           <Box position={"relative"} className="imagecard">
             <Image
               style={{ borderRadius: "10px" }}
+
               width="100%"
               src={data.img}
               alt={data.img}
