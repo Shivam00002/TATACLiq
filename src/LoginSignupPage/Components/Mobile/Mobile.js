@@ -16,6 +16,7 @@ const Mobile = ({ validate, toggleAuthType, x }) => {
         </label>
       </div>
 
+
       <br />
       {x === 0 ? (
         <button
