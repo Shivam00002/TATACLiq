@@ -13,6 +13,7 @@ const ProductCard = ({ data }) => {
   //     brand: "Woodland",
   //     name: "Woodland Men's Rust Derby Shoes",
   //     price: "1497",
+
   //     strikedPrice:"1699",
   //     product_type: "casual"
   //   }
