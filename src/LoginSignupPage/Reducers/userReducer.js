@@ -8,6 +8,7 @@ const userSlicer = createSlice({
   name: "Users",
   reducers: {
     setUsers(storeData, action) {
+
       storeData.users = action.payload;
     },
   },
