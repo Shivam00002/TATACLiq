@@ -28,6 +28,7 @@ const Sidebar = () => {
               <i className="fa-solid fa-tag"></i>&emsp;Brands
             </Link>
           </li>
+
           <li>
             <Link className="links">
               <i className="fa-regular fa-credit-card"></i>&emsp;Saved Payments
