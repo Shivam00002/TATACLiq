@@ -24,6 +24,7 @@ function Footer(props) {
                 <li>Sitemap</li>
              </ul>
              <ul  style={{textAlign:"left", paddingLeft:"30px"}}> <h6>Customer Service</h6>
+
               <li style={{paddingTop:"10px"}}> Shopping</li>
               <li>Offers & Promotions</li>
               <li>   Payments</li>
