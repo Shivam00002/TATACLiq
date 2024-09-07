@@ -11,6 +11,7 @@ const Carousela = (props) => {
 
 
 
+
     const [touchPosition, setTouchPosition] = useState(null)
 
     // Set the length to match current children from props
