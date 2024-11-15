@@ -18,7 +18,8 @@ function Home(props) {
       getData()
      },[]);
     const getData=()=>{
-      fetch("https://himangshumahato82.github.io/HomePage-Data/db.json")
+     
+ fetch("https://himangshumahato82.github.io/HomePage-Data/db.json")
 
       .then((res)=>res.json())
       .then((data)=>{
