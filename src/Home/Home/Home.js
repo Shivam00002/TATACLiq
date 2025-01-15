@@ -19,7 +19,6 @@ function Home(props) {
      },[]);
     const getData=()=>{
      
-
  fetch("https://himangshumahato82.github.io/HomePage-Data/db.json")
 
 
