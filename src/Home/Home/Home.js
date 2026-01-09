@@ -7,6 +7,7 @@ import {useState,useEffect} from "react";
 import Carousela from "../Minicarousel/Minicarousel"
 import "../Minicarousel/carousel.css"
 
+
 import  "./home.css"
 import Footer from '../Footer/Footer';
 function Home(props) {
